@@ -1,4 +1,4 @@
-(ns clojure-applied-book.core
+(ns shopping.core
   (:gen-class))
 
 (defn -main

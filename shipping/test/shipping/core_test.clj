@@ -1,6 +1,6 @@
-(ns clojure-applied-book.core-test
+(ns shipping.core-test
   (:require [clojure.test :refer :all]
-            [clojure-applied-book.core :refer :all]))
+            [shipping.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."
